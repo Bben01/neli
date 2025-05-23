@@ -53,6 +53,8 @@ pub mod genl;
 pub mod netfilter;
 /// Constants related to generic netlink top level headers
 pub mod nl;
+/// Constants related to process connector
+pub mod proc_cn;
 /// Constants related to rtnetlink
 pub mod rtnl;
 /// Constants related to netlink socket operations

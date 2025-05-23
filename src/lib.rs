@@ -138,6 +138,7 @@ pub mod attr;
 pub mod consts;
 pub mod err;
 pub mod genl;
+pub mod proc_cn;
 pub mod iter;
 pub mod nl;
 pub mod router;
